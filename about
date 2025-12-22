@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Обо мне — EXCELFF</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="logo">EXCELFF</div>
+        <nav>
+            <a href="index.html">Главная</a>
+            <a href="about.html">Обо мне</a>
+            <a href="projects.html">Кейсы</a>
+            <a href="contact.html">Контакты</a>
+        </nav>
+    </div>
+</header>
+
+<main class="container">
+    <h1>Обо мне</h1>
+    <p>
+        Я финансовый специалист, работающий с аналитикой, Excel и управленческой
+        отчётностью. Моя цель — превращать данные в понятные и полезные решения
+        для бизнеса.
+    </p>
+</main>
+
+<footer>
+    <div class="container">© 2025 EXCELFF</div>
+</footer>
+
+</body>
+</html>
