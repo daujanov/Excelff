@@ -137,3 +137,11 @@ footer {
     font-size: 14px;
     color: #555;
 }
+/* ===== Photo ===== */
+
+.about-photo {
+    width: 180px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
